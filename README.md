@@ -1,17 +1,17 @@
 ## Bem vindo 👋
 Profissional de Processos apaixonado por conhecimento e liderança. Atualmente estudando e praticando automatização de processos e gestão de dados para agregar ainda mais em tomadas de decisões estratégicas.
 
-Conhecimentos em:
-🌱 Gestão de Processos
-🌱 Criação de KPI
-🌱 Gestão do Conhecimento
-🌱 Gestão de Pessoas
+Conhecimentos em: <br>
+🌱 Gestão de Processos <br>
+🌱 Criação de KPI <br>
+🌱 Gestão do Conhecimento <br>
+🌱 Gestão de Pessoas <br>
 
-Estudando:
-🔭 Python com Jupyter Notebook
-🔭 SQL
-🔭 Looker Studio
-🔭 Power B.I
+Estudando: <br>
+🔭 Python com Jupyter Notebook <br>
+🔭 SQL <br>
+🔭 Looker Studio <br>
+🔭 Power B.I <br>
 
 Confira meu portifólio de projetos [Portifólio](https://sites.google.com/view/portifliodedados/)
 <!--

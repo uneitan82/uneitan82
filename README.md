@@ -13,7 +13,7 @@ Estudando:
 🔭 Looker Studio
 🔭 Power B.I
 
-Confira meu portifilio de projetos [Portifólio](https://sites.google.com/view/portifliodedados/)
+Confira meu portifólio de projetos [Portifólio](https://sites.google.com/view/portifliodedados/)
 <!--
 Profissional de Processos apaixonado por conhecimento e liderança. Atualmente estudando e praticando automatização de processos e gestão de dados para agregar ainda mais em tomadas de decisões estratégicas.
 

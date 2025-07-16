@@ -1,10 +1,21 @@
 ## Bem vindo 👋
+Profissional de Processos apaixonado por conhecimento e liderança. Atualmente estudando e praticando automatização de processos e gestão de dados para agregar ainda mais em tomadas de decisões estratégicas.
 
+Conhecimentos em:
+🌱 Gestão de Processos
+🌱 Criação de KPI
+🌱 Gestão do Conhecimento
+🌱 Gestão de Pessoas
+
+Estudando:
+🔭 Python com Jupyter Notebook
+🔭 SQL
+🔭 Looker Studio
+🔭 Power B.I
+
+Confira meu portifilio de projetos [Portifólio](https://sites.google.com/view/portifliodedados/)
 <!--
 Profissional de Processos apaixonado por conhecimento e liderança. Atualmente estudando e praticando automatização de processos e gestão de dados para agregar ainda mais em tomadas de decisões estratégicas.
-**uneitan82/uneitan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
